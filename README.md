@@ -11,7 +11,7 @@ The project is deployed here: https://it-school-news-ai.netlify.app/
 The project has the following features:
 
 - Display news by different categories
-- Display individual mews
+- Display individual news
 - Add/remove news from favorites
 - Used localStorage to persist favorite news
 - Used Pagination to display the news in multiple pages
