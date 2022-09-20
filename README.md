@@ -21,7 +21,7 @@ The project has the following features:
 The project covers the following concepts:
 
 - Creating reusable components
-- React hooks, such as useState, useeffect, useReducer, useContext
+- React hooks, such as useState, useEffect, useReducer, useContext
 - Custom hooks
 - State management (Context API + useReducer)
 - Routing
